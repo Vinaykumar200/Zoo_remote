@@ -1,7 +1,6 @@
 Lion are beautiful creatures, they are ferosious.
 They are the king!
-
 modified file in bear branch
-
 modified file in lions branch
+modified in tiger branch
 
